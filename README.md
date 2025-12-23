@@ -10,17 +10,26 @@ Some small changes and improvements were added to understand core frontend conce
 
 Perform basic arithmetic operations: 
 Addition (+)
+
 Subtraction (−)
+
 Multiplication (×)
+
 Division (÷)
+
 Clear display button (C)
+
 User-friendly interface
+
 Responsive layout
+
 Error handling for invalid inputs
 
 
 🛠️ Technologies Used
 
 HTML – Structure of the calculator
+
 CSS – Styling and layout
+
 JavaScript – Calculator logic and functionality
